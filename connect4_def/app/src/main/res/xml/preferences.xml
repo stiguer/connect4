@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="pref1"
+        android:summary="@string/aliassummary"
+        android:title="@string/alias" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="pref2"
+        android:summary="@string/controlsummary"
+        android:title="@string/controltemps" />
+
+    <ListPreference
+        android:defaultValue="3"
+        android:entries="@array/mides_graella"
+        android:entryValues="@array/mides_graella"
+        android:key="pref3"
+        android:title="@string/midagraella"
+        android:summary="@string/midasummary"/>
+
+</PreferenceScreen>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Connect 4</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="començarpartida">Començar partida</string>
+    <string name="sortir">Sortir</string>
+    <string name="benvingut">Benvingut al joc del CONNECT 4 !</string>
+    <string name="anaraljoc">Anar al joc</string>
+    <string name="descripcio">El joc consisteix en anar introduint fitxes en un tauler vertical amb l\'objectiu d\'alinear 4 consecutives del color assignat al jugador(roig) abans que el teu oponent.\nA cada torn, el jugador introdueix una fitxa a la columna triada (sempre i quan no estigui completa), i aquesta cau a la posició més baixa possible.\nGuanya la partida el jugador que primer aconsegueix alinear 4 fitxes consecutives del seu color en horitzontal, vertical o diagonal.\nSi totes les columnes estan plenes i ningú ha aconseguit alinear-ne 4 fitxes, hi ha empat.</string>
+    <string name="configuracio">Configuració</string>
+    <string name="aliasidentificatiu">Alias identificatiu</string>
+    <string name="midagraella">Mida graella</string>
+    <string name="controltemps">Control del temps</string>
+    <string name="començar">Començar</string>
+    <string name="principal">Principal</string>
+    <string name="torn">Torn:</string>
+    <string name="temps">0 secs.</string>
+    <string name="resultats">Resultats partida</string>
+    <string name="data">Dia i hora:</string>
+    <string name="valors">Valors del Log:</string>
+    <string name="correu">E-mail destinatari:</string>
+    <string name="enviar">Enviar e-mail</string>
+    <string name="nova">Nova partida</string>
+    <string name="consultar">Consultar partides</string>
+    <string name="detalls">Detalls de la partida...</string>
+    <string name="tornar">Tornar menu</string>
+    <string name="tornardetalls">Tornar</string>
+    <string name="preferencies">Preferències</string>
+    <string name="alias">Alias</string>
+    <string name="aliassummary">Alias de jugador</string>
+    <string name="controlsummary">Marcar per a limitar temps de la partida</string>
+    <string name="midasummary">Mida de la graella del joc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
